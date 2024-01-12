@@ -3,6 +3,8 @@ home-assistant-with-pfsense
 
 Based on "pfSense integration with Home Assistant" at https://github.com/travisghansen/hass-pfsense
 
+Based on "pfSense" at https://github.com/vanHeemstraSystems/pfsense
+
 ## 100 - Introduction
 
 Join pfSense with home-assistant!
